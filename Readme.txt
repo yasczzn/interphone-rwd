@@ -1,6 +1,10 @@
-Thanks for downloading this template!
+## Responsive web design project 
+----
 
-Template Name: Shuffle
-Template URL: https://bootstrapmade.com/bootstrap-3-one-page-template-free-shuffle/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+submitted in 2021
+work by yasmin and devi
+
+[^1]: Template URL: https://bootstrapmade.com/bootstrap-3-one-page-template-free-shuffle/
+[^1]: Author: BootstrapMade.com
+[^1]: License: https://bootstrapmade.com/license/
+
